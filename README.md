@@ -72,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Docker Container running on port 9000
 
 ![Screenshot 2023-05-28 171840](https://github.com/darjidhruv26/react-docker-ElasticBeanstalk/assets/90086813/8706bd07-34e9-4828-ad23-fa598e4edfd9)
+
+
+
